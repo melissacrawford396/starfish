@@ -34,8 +34,7 @@ Just starting to search around for existing tools that scrape and curate housing
     - Proxy Pool for data requests / anonymity 
     - Authenication Tools
       - Re-Captcha, browser fingerprinting
-- [another craigslist web scraper - towardsDataScience.com](https://towardsdatascience.
-  com/web-scraping-craigslist-a-complete-tutorial-c41cea4f4981)
+- [another craigslist web scraper - towardsDataScience.com](https://towardsdatascience.com/web-scraping-craigslist-a-complete-tutorial-c41cea4f4981)
   - Fun data science-y breakdown
   - Interesting box and whisker plots on neighborhood to price. Shows which have a wide spread or maybe should be 
     broken down into more neighborhoods
